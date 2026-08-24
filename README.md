@@ -1,114 +1,135 @@
-<div align="center">👋 Hey, I'm Samuvel Durai
+Hey, I'm Samuvel Durai 👋
 
-🚀 Computer Science Engineering Student | Developer | Problem Solver
+Computer Science Engineering Student · Developer · Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile+👋;Python+%7C+Java+%7C+SQL+Developer;Building+Projects+That+Solve+Real+Problems+🚀;Learn.+Build.+Improve.+Repeat.+🔥" alt="Typing SVG" /><br/>«"Turning ideas into code, and code into solutions."»
-
-</div>---
-
-🧑‍💻 About Me
-
-🎓 Final Year Computer Science Engineering Student
-💻 Passionate about Software Development
-🐍 Python | Java | SQL
-☁️ Cloud & Data Enthusiast
-🤖 Exploring Machine Learning & AI
-🔐 Interested in Cybersecurity
-🚀 Building. Learning. Improving.
+«Building projects, learning technologies, and turning ideas into code.»
 
 ---
 
-⚡ Tech Arsenal
+"$ whoami"
 
-<p align="center"><img src="https://skillicons.dev/icons?i=python,java,c,html,css,mysql,git,github,vscode" /><br/><br/>
+I'm a Computer Science Engineering student interested in software development, data, cloud computing, and AI.
 
-<img src="https://skillicons.dev/icons?i=gcp" /></p><div align="center">📊 Data • AI • Analytics
+- 🎓 Computer Science Engineering Student
+- 💻 Interested in Software Development
+- 🐍 Python & Java Developer
+- 📊 Data & Machine Learning Enthusiast
+- ☁️ Cloud Computing Explorer
+- 🔐 Cybersecurity Learner
+- 🚀 Always building something new
 
-"Pandas"   ✦   "NumPy"   ✦   "Scikit-learn"   ✦   "Power BI"   ✦   "Tableau"
+---
 
-</div>---
+⚡ Tech Stack
+
+Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
+</p>Database & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gcp" />
+</p>Data & Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>"Pandas" · "NumPy" · "Scikit-learn" · "Power BI" · "Tableau"
+
+---
 
 🚀 Featured Projects
 
-<div align="center">🛡️ SafeSwipeXpert
+🛡️ SafeSwipeXpert
 
 Credit Card Fraud Detection System
 
-«Machine Learning-powered fraud detection system that analyzes transactions and identifies potentially fraudulent activity.»
+A machine-learning application designed to detect potentially fraudulent credit card transactions.
 
-"Python" • "Streamlit" • "Scikit-learn" • "Logistic Regression" • "Random Forest"
+Built with
 
-<br/>🎨 Color Detection App
-
-Computer Vision Project
-
-«Detects and identifies colors from images using Computer Vision techniques.»
-
-"Python" • "OpenCV" • "Streamlit"
-
-<br/>📊 Data Analysis Projects
-
-From Raw Data → Meaningful Insights
-
-«Exploring datasets and transforming information into useful insights and visualizations.»
-
-"Python" • "Pandas" • "NumPy" • "Power BI" • "Tableau"
-
-</div>---
-
-⚡ GitHub Stats
-
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=samuveldurai0712-lab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" /><img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=samuveldurai0712-lab&theme=tokyonight&hide_border=true" /></div><br/><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuveldurai0712-lab&layout=compact&theme=tokyonight&hide_border=true" /></div>---
-
-🏆 Achievements
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=samuveldurai0712-lab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" /></div>---
-
-📈 Coding Journey
-
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=samuveldurai0712-lab&theme=tokyo-night&hide_border=true" /></div>---
-
-🧠 Currently Exploring
-
-☁️ Cloud Computing
-🤖 Machine Learning & AI
-🔐 Cybersecurity
-📊 Data Analytics
-🧠 Data Structures & Algorithms
-🚀 Building Real-World Projects
+"Python" "Scikit-learn" "Streamlit" "Logistic Regression" "Random Forest"
 
 ---
 
-🎯 Mission 2026
+🎨 Color Detection App
 
-<div align="center">🚀 Build impactful real-world projects
-💻 Become a stronger problem solver
-🧠 Master Data Structures & Algorithms
-☁️ Expand Cloud Computing knowledge
-🤖 Explore Artificial Intelligence
-🌟 Contribute to Open Source
-💼 Build a strong developer portfolio
+Computer Vision Project
 
-</div>---
+An application that detects and identifies colors from images using computer vision.
+
+Built with
+
+"Python" "OpenCV" "Streamlit"
+
+---
+
+📊 Data Analysis Projects
+
+Exploring datasets, extracting insights, and creating meaningful visualizations.
+
+Tools
+
+"Python" "Pandas" "NumPy" "Power BI" "Tableau"
+
+---
+
+📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=samuveldurai0712-lab&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=samuveldurai0712-lab&theme=github-dark-blue&hide_border=true" />
+</p>Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuveldurai0712-lab&layout=compact&theme=github_dark&hide_border=true" />
+</p>---
+
+🧠 Currently Learning
+
+→ Machine Learning
+→ Cloud Computing
+→ Data Structures & Algorithms
+→ Cybersecurity
+→ Full-Stack Development
+
+---
 
 🏆 Certifications
 
-<div align="center">☁️ Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+- ☁️ Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+- 📊 Data Analysis with Python — IBM
+- 🔐 Google Cloud Cybersecurity Certificate
+- 🐍 Python Programming — GUVI / IITM Research Park
 
-📊 Data Analysis with Python – IBM
+---
 
-🔐 Google Cloud Cybersecurity Certificate
+🎯 2026 Goals
 
-🐍 Python Programming
+Build better projects.
+Write cleaner code.
+Improve problem solving.
+Explore AI & Cloud.
+Contribute to Open Source.
+Become a better Software Engineer.
 
-🎓 GUVI Geek Networks – IITM Research Park
+---
 
-</div>---
+📫 Connect
 
-<div align="center">🤝 Let's Build Something Amazing
+GitHub → "samuveldurai0712-lab" (https://github.com/samuveldurai0712-lab)
 
-""GitHub" (https://img.shields.io/badge/GitHub-samuveldurai0712--lab-181717?style=for-the-badge&logo=github)" (https://github.com/samuveldurai0712-lab)
+LinkedIn → Add your LinkedIn
 
-<br/>💡 Code • Create • Innovate • Repeat
+Portfolio → Add your portfolio
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=tokyonight" /></div>
+---
+
+<div align="left">"Code → Learn → Build → Repeat"
+
+⭐ Thanks for visiting my profile!
+
+</div>
