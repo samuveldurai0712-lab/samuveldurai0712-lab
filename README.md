@@ -1,40 +1,38 @@
-Hey, I'm Samuvel Durai 👋
+<div align="center">👋 Hey, I'm Samuvel Durai
 
-Computer Science Engineering Student · Developer · Builder
+💻 Computer Science Engineering Student · Developer · Builder
 
-«Building projects, learning technologies, and turning ideas into code.»
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!+👋;Python+%7C+Java+%7C+SQL+Developer;Cloud+%7C+Data+%7C+AI+Enthusiast;Building+Projects+That+Solve+Real+Problems+🚀;Learn+%7C+Build+%7C+Improve" alt="Typing Animation" /></div>---
 
----
+🧑‍💻 About Me
 
-"$ whoami"
-
-I'm a Computer Science Engineering student interested in software development, data, cloud computing, and AI.
+I'm a Computer Science Engineering student who enjoys building practical projects, solving problems, and exploring new technologies.
 
 - 🎓 Computer Science Engineering Student
-- 💻 Interested in Software Development
-- 🐍 Python & Java Developer
-- 📊 Data & Machine Learning Enthusiast
-- ☁️ Cloud Computing Explorer
-- 🔐 Cybersecurity Learner
-- 🚀 Always building something new
+- 💻 Software Development Enthusiast
+- 🐍 Python & Java
+- 📊 Data Analytics & Machine Learning
+- ☁️ Cloud Computing
+- 🔐 Cybersecurity
+- 🚀 Always learning and building
 
 ---
 
 ⚡ Tech Stack
 
-Programming Languages
+👨‍💻 Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c" />
-</p>Database & Tools
+</p>🗄️ Database & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-</p>Cloud
+</p>☁️ Cloud
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=gcp" />
-</p>Data & Machine Learning
+</p>📊 Data & Machine Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" />
@@ -48,33 +46,33 @@ Programming Languages
 
 Credit Card Fraud Detection System
 
-A machine-learning application designed to detect potentially fraudulent credit card transactions.
+A Machine Learning application designed to analyze credit card transactions and identify potentially fraudulent activity.
 
-Built with
+Tech Stack
 
-"Python" "Scikit-learn" "Streamlit" "Logistic Regression" "Random Forest"
+"Python" · "Scikit-learn" · "Streamlit" · "Logistic Regression" · "Random Forest"
 
 ---
 
 🎨 Color Detection App
 
-Computer Vision Project
+Computer Vision Application
 
-An application that detects and identifies colors from images using computer vision.
+A Python application that detects and identifies colors from images using OpenCV.
 
-Built with
+Tech Stack
 
-"Python" "OpenCV" "Streamlit"
+"Python" · "OpenCV" · "Streamlit"
 
 ---
 
 📊 Data Analysis Projects
 
-Exploring datasets, extracting insights, and creating meaningful visualizations.
+Exploring datasets, cleaning data, finding patterns, and creating meaningful visualizations.
 
 Tools
 
-"Python" "Pandas" "NumPy" "Power BI" "Tableau"
+"Python" · "Pandas" · "NumPy" · "Power BI" · "Tableau"
 
 ---
 
@@ -82,7 +80,7 @@ Tools
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=samuveldurai0712-lab&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=samuveldurai0712-lab&theme=github-dark-blue&hide_border=true" />
-</p>Most Used Languages
+</p>💻 Most Used Languages
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuveldurai0712-lab&layout=compact&theme=github_dark&hide_border=true" />
@@ -109,27 +107,32 @@ Tools
 
 🎯 2026 Goals
 
-Build better projects.
-Write cleaner code.
-Improve problem solving.
-Explore AI & Cloud.
-Contribute to Open Source.
-Become a better Software Engineer.
+- 🚀 Build impactful real-world projects
+- 🧠 Improve Data Structures & Algorithms
+- ☁️ Strengthen Cloud Computing knowledge
+- 🤖 Explore AI & Machine Learning
+- 🔐 Improve Cybersecurity knowledge
+- 🌟 Contribute to Open Source
+- 💼 Become a better Software Engineer
 
 ---
 
-📫 Connect
+📫 Connect With Me
 
-GitHub → "samuveldurai0712-lab" (https://github.com/samuveldurai0712-lab)
+<p align="left"><a href="https://github.com/samuveldurai0712-lab">
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/samuvel-durai-c-6151542a1/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a></p>GitHub: "samuveldurai0712-lab" (https://github.com/samuveldurai0712-lab)
 
-LinkedIn → Add your LinkedIn
-
-Portfolio → Add your portfolio
+LinkedIn: "Samuvel Durai C" (https://www.linkedin.com/in/samuvel-durai-c-6151542a1/)
 
 ---
 
-<div align="left">"Code → Learn → Build → Repeat"
+<div align="center">"Code → Learn → Build → Repeat"
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile! ⭐
 
 </div>
